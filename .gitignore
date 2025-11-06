@@ -1,0 +1,12 @@
+*.txt
+
+*venv
+
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+**bin/
+**lib64/
+**pyvenv.cfg
