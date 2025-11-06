@@ -1,12 +1,15 @@
+# Ignore all text files
 *.txt
 
-*venv
-
+# Ignore Python cache
 __pycache__/
 
-# Virtual environment
+# Ignore virtual environments
 venv/
 .venv/
-**bin/
-**lib64/
-**pyvenv.cfg
+bin/
+lib/
+lib64/
+pyvenv.cfg
+
+password-app/venv/
